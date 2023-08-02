@@ -8,7 +8,7 @@ just add
 ```
 to `repositories` and
 ```gradle
-  modImplementation 'com.github.z3roco01:effected:v1.0.0'
+  modImplementation 'com.github.z3roco01:effected:v1.0.1'
 ```
  to `dependencies` in `build.gradle`
 
